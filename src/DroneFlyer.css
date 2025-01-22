@@ -1,0 +1,12 @@
+.drone-container {
+    height: 200vh; /* Makes the page scrollable */
+  }
+  
+  .scrolling-content {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    position: relative;
+    top: 50vh;
+  }
+  
